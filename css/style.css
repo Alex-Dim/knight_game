@@ -1,0 +1,225 @@
+.wep_cen {
+    
+    background: powderblue;
+}
+
+.war_cen {
+    text-align: center;
+    font-weight: bold;
+    color:white;
+    background: gray;
+}
+
+.gray{
+    background:#C0C0C0  ;
+}
+
+.submit {
+    background: gray;
+    color:brown;
+    background: #E8E8E8 ;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid #787878 ;
+}
+
+.error {
+    padding:14px;
+    background:#F2DEDE ;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 1px solid #C24A75;
+    width:350px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.player01 {
+    float:left;
+    padding: 15px;
+    background: #9ACD32;
+    font-weight: bold;
+    border:2px solid black;
+    width:225px;
+    text-align: center;
+}
+
+.player02 {
+    float:right;
+    padding: 15px;
+    background: #DB7093;
+    font-weight: bold;
+    border:2px solid black;
+    width:225px;
+    text-align: center;
+}
+.pl1_en {
+    padding: 15px;
+    background: #9ACD32;
+    font-weight: bold;
+    border:2px solid black;
+}
+
+.pl2_en {
+     padding: 15px;
+    background: #DB7093;
+    font-weight: bold;
+    border:2px solid black;
+}
+
+.pl_en_m {
+     padding: 15px;
+    background: #E8E8E8 ;
+    font-weight: bold;
+    border:2px solid black;
+}
+
+.tab_left {
+    float:left;
+    border:3px solid #D0D0D0 ;
+}
+
+.tab_right {
+    float:right;
+    border:3px solid #D0D0D0 ;
+}
+
+.ifr {
+    margin-left:50px;
+    max-height: auto;
+    background: #D8D8D8 ;
+}
+
+.strd {
+    color:#33CC00;
+    font-weight: bold;
+    text-align: center;
+    background: #E8E8E8;
+    padding: 8px;
+    
+}
+
+.attack {
+    color:white;
+    background: brown;
+    font-weight: bold;
+    padding:5px;
+    border:3px solid black;
+}
+
+.attack1 {
+    color:black;
+    background: powderblue;
+    font-weight: bold;
+    padding:5px;
+    border:3px solid black;
+}
+
+.choo {
+    padding: 5px;
+    background:#E8E8E8;
+    border:1px solid gray;
+}
+
+
+.ttd {
+    background: #B0B0B0  ;
+     text-align: center;
+}
+
+.turn1 {
+    float:left;
+    color:brown;
+    font-weight: bold;
+    padding:5px;
+    background: #B0B0B0;
+    font-size:12px;
+}
+
+.turn2 {
+    float:right;
+    color:brown;
+    font-weight: bold;
+    padding:5px;
+    background: #B0B0B0;
+    font-size:12px;
+}
+
+.right_points {
+    float:right;
+    color:white;
+    font-weight: bold;
+    padding:5px;
+    background: #484848;
+    font-size:12px;
+}
+
+.left_points {
+    float:left;
+    color:white;
+    font-weight: bold;
+    padding:5px;
+    background: #484848;
+    font-size:12px;
+}
+
+.circle {
+    float:right;
+    color:white;
+    font-weight: bold;
+    padding:5px;
+    margin-left: 5px;
+    background: brown;
+}
+
+.attack_p_01 {
+    padding:10px;
+    
+    background: #00CC33;
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.attack_p_02 {
+    padding:10px;
+   line-height: 30px;
+    background: #CC3333;
+    
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.power {
+    font-size:30px ;
+    font-family: Arial Bold Italic;
+    color:white;
+}
+
+.div1 {
+    padding:20px;
+}
+
+#game_field4 {
+    visibility: hidden;
+}
+
+.victory {
+    color:#FFD700;
+    font-weight: bold;
+    padding:20px;
+    background: black;
+    text-align: center;
+    font-size: 24px ;
+}
+
+.end {
+    padding: 10px;
+    background: black;
+    color:white;
+    font-weight: bold;
+    border:3px solid red;
+    margin-left: 70px;
+}
